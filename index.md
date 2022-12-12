@@ -1,6 +1,6 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/assets/ban-noelle.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+
+<h2>Hello! I'm Noelle</h2>
 
 <!-- ## 👋 &nbsp;Hello! I'm Noelle -->
 
