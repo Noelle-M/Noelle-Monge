@@ -1,3 +1,4 @@
+![Noelle Monge](https://raw.githubusercontent.com/Noelle-M/Noelle-Monge/main/assets/ban-noelle.jpg)
 
 
 <h2>Hello! I'm Noelle</h2>
@@ -6,6 +7,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+
+✉️ &nbsp;You can shoot me an email at contact@noelle-monge.fr! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Portfolio](https://noelle-monge.fr/) for more details about me. I'm open to feedback and suggestions!
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -37,5 +42,5 @@
 
 <p align="center">
 <a href="(https://www.linkedin.com/in/noelle-monge-dev/)"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="(https://twitter.com/noelle_monge_45)"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white](https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social")/></a>
+  <a href="(https://twitter.com/noelle_monge_45)"><img src="https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social")/></a>
 </p>
